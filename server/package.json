@@ -2,10 +2,11 @@
   "name": "server",
   "version": "1.0.0",
   "description": "Test repo",
-  "main": "index.js",
+  "main": "index.js : Started",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
   "author": "csgeek",
   "license": "MITT",
   "dependencies": {
