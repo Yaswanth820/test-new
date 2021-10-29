@@ -10,7 +10,7 @@ app.listen(PORT, ()=>{
     console.log('Server started');
 });
 
-app.get('/',(req,res)=>{
+app.get('/',(req, res)=>{
     res.send('<h1>hello</h1>');
 });
 
